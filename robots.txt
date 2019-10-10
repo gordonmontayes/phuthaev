@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eenoopeis.garbagemangame.com/sitemap.xml
